@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\Мои неща\UNI\ПЪРВИ КУРС\2. семестър\Създаване на ГПИ\Course project\PuzzleMaster\PuzzleMaster\bin\Debug\PuzzleMaster.exe.config
+C:\Users\acer\Desktop\Мои неща\UNI\ПЪРВИ КУРС\2. семестър\Създаване на ГПИ\Course project\PuzzleMaster\PuzzleMaster\bin\Debug\PuzzleMaster.exe
+C:\Users\acer\Desktop\Мои неща\UNI\ПЪРВИ КУРС\2. семестър\Създаване на ГПИ\Course project\PuzzleMaster\PuzzleMaster\bin\Debug\PuzzleMaster.pdb
+C:\Users\acer\Desktop\Мои неща\UNI\ПЪРВИ КУРС\2. семестър\Създаване на ГПИ\Course project\PuzzleMaster\PuzzleMaster\obj\Debug\PuzzleMaster.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Мои неща\UNI\ПЪРВИ КУРС\2. семестър\Създаване на ГПИ\Course project\PuzzleMaster\PuzzleMaster\obj\Debug\PuzzleMaster.Form1.resources
+C:\Users\acer\Desktop\Мои неща\UNI\ПЪРВИ КУРС\2. семестър\Създаване на ГПИ\Course project\PuzzleMaster\PuzzleMaster\obj\Debug\PuzzleMaster.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Мои неща\UNI\ПЪРВИ КУРС\2. семестър\Създаване на ГПИ\Course project\PuzzleMaster\PuzzleMaster\obj\Debug\PuzzleMaster.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Мои неща\UNI\ПЪРВИ КУРС\2. семестър\Създаване на ГПИ\Course project\PuzzleMaster\PuzzleMaster\obj\Debug\PuzzleMaster.exe
+C:\Users\acer\Desktop\Мои неща\UNI\ПЪРВИ КУРС\2. семестър\Създаване на ГПИ\Course project\PuzzleMaster\PuzzleMaster\obj\Debug\PuzzleMaster.pdb
